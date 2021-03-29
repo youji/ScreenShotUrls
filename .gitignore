@@ -1,0 +1,5 @@
+/_old
+/node_modules
+/result
+/test.js
+*.code-workspace

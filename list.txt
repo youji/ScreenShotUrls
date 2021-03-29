@@ -1,0 +1,204 @@
+URL	title	description	keywords	canonical	viewport	charset	
+https://www.hikari.co.jp/en/	HIKARI SUSHIN,INC.				width=device-width, initial-scale=1, shrink-to-fit=no	UTF-8	
+https://www.hikari.co.jp/en/index.html	HIKARI SUSHIN,INC.				width=device-width, initial-scale=1, shrink-to-fit=no	UTF-8	
+https://www.hikari.co.jp/en/greeting.html	President’s message - HIKARI TSUSHIN, INC.				width=device-width, initial-scale=1, shrink-to-fit=no	UTF-8	
+https://www.hikari.co.jp/en/outline.html	Company overview - HIKARI TSUSHIN, INC.				width=device-width, initial-scale=1, shrink-to-fit=no	UTF-8	
+https://www.hikari.co.jp/en/business.html	Business description - HIKARI TSUSHIN, INC.				width=device-width, initial-scale=1, shrink-to-fit=no	UTF-8	
+https://www.hikari.co.jp/en/sustainability.pdf							
+https://www.hikari.co.jp/en/news_2021.html	News releases - HIKARI TSUSHIN, INC.				widdt=device-widdt, initial-scale=1, shrink-to-fit=no	UTF-8	
+https://www.hikari.co.jp/en/settlement.html	Financial results materials - HIKARI TSUSHIN, INC.				width=device-width, initial-scale=1, shrink-to-fit=no	UTF-8	
+https://www.hikari.co.jp/en/procedure.html	Share administration - HIKARI TSUSHIN, INC.				width=device-width, initial-scale=1, shrink-to-fit=no	UTF-8	
+https://www.hikari.co.jp/inquiry_en.php	Inquiries - HIKARI TSUSHIN, INC.				width=device-width, initial-scale=1, shrink-to-fit=no	UTF-8	
+https://www.hikari.co.jp/	株式会社光通信				width=device-width, initial-scale=1, shrink-to-fit=no	UTF-8	
+https://www.hikari.co.jp/en/news_2020.html	News releases - HIKARI TSUSHIN, INC.				widdt=device-widdt, initial-scale=1, shrink-to-fit=no	UTF-8	
+https://www.hikari.co.jp/en/news_2019.html	News releases - HIKARI TSUSHIN, INC.				widdt=device-widdt, initial-scale=1, shrink-to-fit=no	UTF-8	
+https://www.hikari.co.jp/en/news_2018.html	News releases - HIKARI TSUSHIN, INC.				widdt=device-widdt, initial-scale=1, shrink-to-fit=no	UTF-8	
+https://www.hikari.co.jp/en/news_2017.html	News releases - HIKARI TSUSHIN, INC.				widdt=device-widdt, initial-scale=1, shrink-to-fit=no	UTF-8	
+https://www.hikari.co.jp/en/ir/34th/3rd_presen.pdf							
+https://www.hikari.co.jp/en/ir/34th/1st_presen.pdf							
+https://www.hikari.co.jp/en/ir/34th/2nd_presen.pdf							
+https://www.hikari.co.jp/en/ir/33th/1st_presen.pdf							
+https://www.hikari.co.jp/en/ir/33th/2nd_presen.pdf							
+https://www.hikari.co.jp/en/ir/33th/3rd_presen.pdf							
+https://www.hikari.co.jp/en/ir/33th/4th_presen.pdf							
+https://www.hikari.co.jp/en/ir/32th/1st_presen.pdf							
+https://www.hikari.co.jp/en/ir/32th/2nd_presen.pdf							
+https://www.hikari.co.jp/en/ir/32th/3rd_presen.pdf							
+https://www.hikari.co.jp/en/ir/32th/4th_presen.pdf							
+https://www.hikari.co.jp/en/ir/31th/1st_presen.pdf							
+https://www.hikari.co.jp/en/ir/31th/2nd_presen.pdf							
+https://www.hikari.co.jp/en/ir/31th/3rd_presen.pdf							
+https://www.hikari.co.jp/en/ir/31th/4th_presen.pdf							
+https://www.hikari.co.jp/en/ir/30th/1st_presen.pdf							
+https://www.hikari.co.jp/en/ir/30th/2nd_presen.pdf							
+https://www.hikari.co.jp/en/ir/30th/3rd_presen.pdf							
+https://www.hikari.co.jp/en/ir/30th/4th_presen.pdf							
+https://www.hikari.co.jp/index.html	株式会社光通信				width=device-width, initial-scale=1, shrink-to-fit=no	UTF-8	
+https://www.hikari.co.jp/greeting.html	社長メッセージ - 株式会社光通信				width=device-width, initial-scale=1, shrink-to-fit=no	UTF-8	
+https://www.hikari.co.jp/outline.html	会社概要 - 株式会社光通信				width=device-width, initial-scale=1, shrink-to-fit=no	UTF-8	
+https://www.hikari.co.jp/business.html	決算資料 - 株式会社光通信				width=device-width, initial-scale=1, shrink-to-fit=no	UTF-8	
+https://www.hikari.co.jp/sustainability.html	サステイナビリティ - 株式会社光通信				width=device-width, initial-scale=1, shrink-to-fit=no	UTF-8	
+https://www.hikari.co.jp/news_2021.html	ニュースリリース - 株式会社光通信				widdt=device-widdt, initial-scale=1, shrink-to-fit=no	UTF-8	
+https://www.hikari.co.jp/settlement.html	決算資料 - 株式会社光通信				width=device-width, initial-scale=1, shrink-to-fit=no	UTF-8	
+https://www.hikari.co.jp/meeting.html	株主総会資料 - 株式会社光通信				width=device-width, initial-scale=1, shrink-to-fit=no	UTF-8	
+https://www.hikari.co.jp/procedure.html	株式事務 - 株式会社光通信				width=device-width, initial-scale=1, shrink-to-fit=no	UTF-8	
+https://www.hikari.co.jp/inquiry.php	お問い合わせ - 株式会社光通信				width=device-width, initial-scale=1, shrink-to-fit=no	UTF-8	
+https://www.hikari.co.jp/privacy_2.pdf							
+https://www.hikari.co.jp/img/img_hikari_map.jpg							
+https://www.hikari.co.jp/sustainability.pdf							
+https://www.hikari.co.jp/corporategovernance.pdf							
+https://www.hikari.co.jp/basicpolicy.pdf							
+https://www.hikari.co.jp/news_2020.html	ニュースリリース - 株式会社光通信				widdt=device-widdt, initial-scale=1, shrink-to-fit=no	UTF-8	
+https://www.hikari.co.jp/news_2019.html	ニュースリリース - 株式会社光通信				widdt=device-widdt, initial-scale=1, shrink-to-fit=no	UTF-8	
+https://www.hikari.co.jp/news_2018.html	ニュースリリース - 株式会社光通信				widdt=device-widdt, initial-scale=1, shrink-to-fit=no	UTF-8	
+https://www.hikari.co.jp/news_2017.html	ニュースリリース - 株式会社光通信				widdt=device-widdt, initial-scale=1, shrink-to-fit=no	UTF-8	
+https://www.hikari.co.jp/news/210322_1.pdf							
+https://www.hikari.co.jp/news/210212_1.pdf							
+https://www.hikari.co.jp/news/210127_1.pdf							
+https://www.hikari.co.jp/news/210115_1.pdf							
+https://www.hikari.co.jp/ir/34th/1st_presen.pdf							
+https://www.hikari.co.jp/ir/34th/1st_shihanki.pdf							
+https://www.hikari.co.jp/ir/34th/1st_zaimu.pdf							
+https://www.hikari.co.jp/ir/34th/2nd_presen.pdf							
+https://www.hikari.co.jp/ir/34th/2nd_shihanki.pdf							
+https://www.hikari.co.jp/ir/34th/2nd_zaimu.pdf							
+https://www.hikari.co.jp/ir/34th/3rd_presen.pdf							
+https://www.hikari.co.jp/ir/34th/3rd_shihanki.pdf							
+https://www.hikari.co.jp/ir/34th/3rd_zaimu.pdf							
+https://www.hikari.co.jp/ir/33th/1st_presen.pdf							
+https://www.hikari.co.jp/ir/33th/1st_shihanki.pdf							
+https://www.hikari.co.jp/ir/33th/1st_zaimu.pdf							
+https://www.hikari.co.jp/ir/33th/2nd_presen.pdf							
+https://www.hikari.co.jp/ir/33th/2nd_shihanki.pdf							
+https://www.hikari.co.jp/ir/33th/2nd_zaimu.pdf							
+https://www.hikari.co.jp/ir/33th/3rd_presen.pdf							
+https://www.hikari.co.jp/ir/33th/3rd_shihanki.pdf							
+https://www.hikari.co.jp/ir/33th/3rd_zaimu.pdf							
+https://www.hikari.co.jp/ir/33th/4th_presen.pdf							
+https://www.hikari.co.jp/ir/33th/4th_yuuka_houkoku.pdf							
+https://www.hikari.co.jp/ir/33th/4th_zaimu.pdf							
+https://www.hikari.co.jp/ir/32th/1st_presen.pdf							
+https://www.hikari.co.jp/ir/32th/1st_shihanki.pdf							
+https://www.hikari.co.jp/ir/32th/1st_zaimu.pdf							
+https://www.hikari.co.jp/ir/32th/2nd_presen.pdf							
+https://www.hikari.co.jp/ir/32th/2nd_shihanki.pdf							
+https://www.hikari.co.jp/ir/32th/2nd_zaimu.pdf							
+https://www.hikari.co.jp/ir/32th/3rd_presen.pdf							
+https://www.hikari.co.jp/ir/32th/3rd_shihanki.pdf							
+https://www.hikari.co.jp/ir/32th/3rd_zaimu.pdf							
+https://www.hikari.co.jp/ir/32th/4th_presen.pdf							
+https://www.hikari.co.jp/ir/32th/4th_yuuka_houkoku.pdf							
+https://www.hikari.co.jp/ir/32th/4th_zaimu.pdf							
+https://www.hikari.co.jp/ir/31th/1st_presen.pdf							
+https://www.hikari.co.jp/ir/31th/1st_shihanki.pdf							
+https://www.hikari.co.jp/ir/31th/1st_zaimu.pdf							
+https://www.hikari.co.jp/ir/31th/2nd_presen.pdf							
+https://www.hikari.co.jp/ir/31th/2nd_shihanki.pdf							
+https://www.hikari.co.jp/ir/31th/2nd_zaimu.pdf							
+https://www.hikari.co.jp/ir/31th/3rd_presen.pdf							
+https://www.hikari.co.jp/ir/31th/3rd_shihanki.pdf							
+https://www.hikari.co.jp/ir/31th/3rd_zaimu.pdf							
+https://www.hikari.co.jp/ir/31th/4th_presen.pdf							
+https://www.hikari.co.jp/ir/31th/4th_yuuka_houkoku.pdf							
+https://www.hikari.co.jp/ir/31th/4th_zaimu.pdf							
+https://www.hikari.co.jp/ir/30th/1st_presen.pdf							
+https://www.hikari.co.jp/ir/30th/1st_shihanki.pdf							
+https://www.hikari.co.jp/ir/30th/1st_zaimu.pdf							
+https://www.hikari.co.jp/ir/30th/2nd.presen.pdf							
+https://www.hikari.co.jp/ir/30th/2nd.shihanki.pdf							
+https://www.hikari.co.jp/ir/30th/2nd.zaimu.pdf							
+https://www.hikari.co.jp/ir/30th/3rd_presen.pdf							
+https://www.hikari.co.jp/ir/30th/3rd_shihanki.pdf							
+https://www.hikari.co.jp/ir/30th/3rd_zaimu.pdf							
+https://www.hikari.co.jp/ir/30th/4th_presen.pdf							
+https://www.hikari.co.jp/ir/30th/4th_yuuka_houkoku.pdf							
+https://www.hikari.co.jp/ir/30th/4th_zaimu.pdf							
+https://www.hikari.co.jp/ir/200609_1.pdf							
+https://www.hikari.co.jp/ir/200625_1.pdf							
+https://www.hikari.co.jp/ir/200626.pdf							
+https://www.hikari.co.jp/ir/190603_1.pdf							
+https://www.hikari.co.jp/ir/190603_2.pdf							
+https://www.hikari.co.jp/ir/190621.pdf							
+https://www.hikari.co.jp/ir/180601_1.pdf							
+https://www.hikari.co.jp/ir/180601_3.pdf							
+https://www.hikari.co.jp/ir/170601_1.pdf							
+https://www.hikari.co.jp/ir/170601_2.pdf							
+https://www.hikari.co.jp/ir/160601_1.pdf							
+https://www.hikari.co.jp/ir/160601_2.pdf							
+https://www.hikari.co.jp/%E5%8F%A3%E5%BA%A7%E6%8C%AF%E8%BE%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%85%8D%E5%BD%93%E9%87%91%E5%8F%97%E5%8F%96%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85.pdf							
+https://www.hikari.co.jp/privacy_1.pdf							
+https://www.hikari.co.jp/news/201214_1.pdf							
+https://www.hikari.co.jp/news/201112_2.pdf							
+https://www.hikari.co.jp/news/201112_1.pdf							
+https://www.hikari.co.jp/news/200813_1.pdf							
+https://www.hikari.co.jp/news/200708_1.pdf							
+https://www.hikari.co.jp/news/200630_1.pdf							
+https://www.hikari.co.jp/news/200622_1.pdf							
+https://www.hikari.co.jp/news/200612_1.pdf							
+https://www.hikari.co.jp/news/200601_1.pdf							
+https://www.hikari.co.jp/news/200520_1.pdf							
+https://www.hikari.co.jp/news/200520_2.pdf							
+https://www.hikari.co.jp/news/200508_1.pdf							
+https://www.hikari.co.jp/news/200214_2.pdf							
+https://www.hikari.co.jp/news/200214_1.pdf							
+https://www.hikari.co.jp/news/191213_1.pdf							
+https://www.hikari.co.jp/news/191113_2.pdf							
+https://www.hikari.co.jp/news/191113_1.pdf							
+https://www.hikari.co.jp/news/191101_1.pdf							
+https://www.hikari.co.jp/news/190927_1.pdf							
+https://www.hikari.co.jp/news/190909_1.pdf							
+https://www.hikari.co.jp/news/190814_2.pdf							
+https://www.hikari.co.jp/news/190814_1.pdf							
+https://www.hikari.co.jp/news/190802.pdf							
+https://www.hikari.co.jp/news/190705_1.pdf							
+https://www.hikari.co.jp/news/1906281.pdf							
+https://www.hikari.co.jp/news/190628.pdf							
+https://www.hikari.co.jp/news/20190613.pdf							
+https://www.hikari.co.jp/news/190605.pdf							
+https://www.hikari.co.jp/news/1905173.pdf							
+https://www.hikari.co.jp/news/1905171.pdf							
+https://www.hikari.co.jp/news/1905172.pdf							
+https://www.hikari.co.jp/news/20190319.pdf							
+https://www.hikari.co.jp/news/20190318.pdf							
+https://www.hikari.co.jp/news/20190301.pdf							
+https://www.hikari.co.jp/news/201902131.pdf							
+https://www.hikari.co.jp/news/201902132.pdf							
+https://www.hikari.co.jp/news/201902133.pdf							
+https://www.hikari.co.jp/news/20181213.pdf							
+https://www.hikari.co.jp/news/181121.pdf							
+https://www.hikari.co.jp/news/181113.pdf							
+https://www.hikari.co.jp/news/180914.pdf							
+https://www.hikari.co.jp/news/201808141.pdf							
+https://www.hikari.co.jp/news/1807181.pdf							
+https://www.hikari.co.jp/news/180702.pdf							
+https://www.hikari.co.jp/news/1806291.pdf							
+https://www.hikari.co.jp/news/20180614.pdf							
+https://www.hikari.co.jp/news/180612.pdf							
+https://www.hikari.co.jp/news/180608.pdf							
+https://www.hikari.co.jp/news/1805214.pdf							
+https://www.hikari.co.jp/news/1805213.pdf							
+https://www.hikari.co.jp/news/180518.pdf							
+https://www.hikari.co.jp/news/1803192.pdf							
+https://www.hikari.co.jp/news/180319.pdf							
+https://www.hikari.co.jp/news/1803161.pdf							
+https://www.hikari.co.jp/news/180301.pdf							
+https://www.hikari.co.jp/news/180219.pdf							
+https://www.hikari.co.jp/news/201802142.pdf							
+https://www.hikari.co.jp/news/20180214.pdf							
+https://www.hikari.co.jp/news/20171214.pdf							
+https://www.hikari.co.jp/news/1712012.pdf							
+https://www.hikari.co.jp/news/_171114.pdf							
+https://www.hikari.co.jp/news/201711143.pdf							
+https://www.hikari.co.jp/news/170804.pdf							
+https://www.hikari.co.jp/news/20170704.pdf							
+https://www.hikari.co.jp/news/20170614.pdf							
+https://www.hikari.co.jp/news/1705193.pdf							
+https://www.hikari.co.jp/news/1705194.pdf							
+https://www.hikari.co.jp/news/170519.pdf							
+https://www.hikari.co.jp/news/2017%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F%E9%80%A3%E7%B5%90%E6%A5%AD%E7%B8%BE%E3%81%A82016%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F%E5%AE%9F%E7%B8%BE%E3%81%A8%E3%81%AE%E5%B7%AE%E7%95%B0%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B170519.pdf							
+https://www.hikari.co.jp/news/170301.pdf							
+https://www.hikari.co.jp/news/170214.pdf							
+https://www.hikari.co.jp/news/20170203.pdf							
+https://www.hikari.co.jp/news/170201.pdf							
+https://www.hikari.co.jp/news/20170120.pdf							
+https://www.hikari.co.jp/news/1701101.pdf							
