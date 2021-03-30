@@ -1,5 +1,6 @@
 /_old
 /node_modules
-/result
-/test.js
+/result/*.txt
+/result/screenshot/*/
+/result/htmlcode/*/
 *.code-workspace
