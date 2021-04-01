@@ -2,6 +2,7 @@ const puppeteer = require("puppeteer");
 const surveyPage = require("./lib/surveyPage.js");
 const yamlIo = require("./lib/io/yaml.js");
 const textIo = require("./lib/io/text.js");
+const xlsxIo = require("./lib/io/xlsx.js");
 const conf = yamlIo.load("conf.yaml");
 
 // puppeteer
@@ -16,7 +17,11 @@ main();
 
 async function main() {
   console.time("screenshot time");
-  const urlList = await textIo.readListData("./list.txt");
+  // const urlList = await textIo.readListData("./list.txt");
+  // console.log(getInputFilePath());
+  const urlList = await xlsxIo.getXlsxUrlColumnArr(getInputFilePath());
+  // console.log(urlLis2);
+
   console.log("start screenshot : " + urlList.length + " pages");
 
   browser = await puppeteer.launch(conf.browser);
@@ -29,6 +34,7 @@ async function main() {
     console.log("nokori:" + (urlList.length - i - 1));
   }
   await closeBrowser();
+  // await exportTextResult();
   await exportResult();
 
   console.timeEnd("screenshot time");
@@ -44,6 +50,14 @@ async function closeBrowser() {
 async function exportResult() {
   const formatedData = await textIo.formatResultData(doneData);
   const filename = await textIo.exportResultData(formatedData);
+  console.log("-----RESULT EXPORTED!(" + filename + ")-----");
+  return new Promise(function (resolve) {
+    resolve();
+  });
+}
+async function exportXlsxResult() {
+  const formatedData = await xlsxIo.formatExportData(doneData);
+  const filename = await xlsxIo.xlsxExport(formatedData);
   console.log("-----RESULT EXPORTED!(" + filename + ")-----");
   return new Promise(function (resolve) {
     resolve();
@@ -73,4 +87,15 @@ async function formAuthenticationLogin(browser) {
   return new Promise(function (resolve) {
     resolve();
   });
+}
+
+function getInputFilePath() {
+  let rtnPath = "";
+  const inputBaseDir = "./input/";
+  if (process.argv.length >= 3) {
+    rtnPath = inputBaseDir + process.argv[2];
+  } else {
+    rtnPath = inputBaseDir + "urllist.xlsx";
+  }
+  return rtnPath;
 }

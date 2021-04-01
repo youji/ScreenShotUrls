@@ -1,5 +1,6 @@
 /_old
 /result/*.txt
+/result/*.xlsx
 /result/screenshot/*/
 /result/htmlcode/*/
 *.code-workspace
