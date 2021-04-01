@@ -24,6 +24,7 @@ async function main() {
   for (let i = 0; i < urlList.length; i++) {
     let targetUrl = urlList[i];
     let pageData = await surveyPage.survey(browser, targetUrl);
+    // pageData.hrefs;
     doneData.set(targetUrl, pageData.info);
     console.log("nokori:" + (urlList.length - i - 1));
   }
