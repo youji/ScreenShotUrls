@@ -1,15 +1,17 @@
 # basicAuthentication:
 #   username: aaaaa
 #   password: bbbbb
-loadBlockFileExtention:
-  - pdf
+loadBlockFileExtension:
+  # - pdf
   - xlsx
   - docx
   - pptx
   - xls
   - doc
   - ppt
+saveScreenshot: true
 saveHtml: true
+saveAsset: true
 devices:
   pc: #chrome
     userAgent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36

@@ -3,6 +3,7 @@
 /result/*.xlsx
 /result/screenshot/*/
 /result/htmlcode/*/
+/result/asset/*/
 *.code-workspace
 
 # Logs
