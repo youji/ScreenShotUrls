@@ -60,7 +60,7 @@ devices:
   #     isLandscape: true
 browser:
   # ヘッドレスモードで起動するかどうか。デバッグ段階では false を設定することで動きを目視で確認できる
-  headless: false
+  headless: true
   # 各操作の前に入れる遅延(ms)を設定
   # slowMo: 1000
   args:
