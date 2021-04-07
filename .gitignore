@@ -1,9 +1,5 @@
 /_old
-/result/*.txt
-/result/*.xlsx
-/result/screenshot/*/
-/result/htmlcode/*/
-/result/asset/*/
+/result/*/
 *.code-workspace
 
 # Logs
