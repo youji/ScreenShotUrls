@@ -1,7 +1,0 @@
-URL	title	description	keywords	canonical	viewport	charset	
-https://www.hikari.co.jp/en/	HIKARI SUSHIN,INC.				width=device-width, initial-scale=1, shrink-to-fit=no	UTF-8	
-https://www.hikari.co.jp/en/index.html	HIKARI SUSHIN,INC.				width=device-width, initial-scale=1, shrink-to-fit=no	UTF-8	
-https://www.hikari.co.jp/en/greeting.html	President’s message - HIKARI TSUSHIN, INC.				width=device-width, initial-scale=1, shrink-to-fit=no	UTF-8	
-https://www.hikari.co.jp/en/outline.html	Company overview - HIKARI TSUSHIN, INC.				width=device-width, initial-scale=1, shrink-to-fit=no	UTF-8	
-https://www.hikari.co.jp/en/business.html	Business description - HIKARI TSUSHIN, INC.				width=device-width, initial-scale=1, shrink-to-fit=no	UTF-8	
-https://www.hikari.co.jp/en/sustainability.pdf							
