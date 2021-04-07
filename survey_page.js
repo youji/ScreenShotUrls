@@ -16,28 +16,28 @@ let doneData = new Map();
 main();
 
 async function main() {
-  console.time("screenshot time");
+  console.time("time");
   // const urlList = await textIo.readListData("./list.txt");
   // console.log(getInputFilePath());
   const urlList = await xlsxIo.getXlsxUrlColumnArr(getInputFilePath());
   // console.log(urlLis2);
 
-  console.log("start screenshot : " + urlList.length + " pages");
+  console.log("start : " + urlList.length + " pages");
 
   browser = await puppeteer.launch(conf.browser);
 
   for (let i = 0; i < urlList.length; i++) {
     let targetUrl = urlList[i];
     let pageData = await surveyPage.survey(browser, targetUrl);
-    // pageData.hrefs;
+
     doneData.set(targetUrl, pageData.info);
     console.log("nokori:" + (urlList.length - i - 1));
   }
   await closeBrowser();
   // await exportTextResult();
-  await exportResult();
+  await exportXlsxResult();
 
-  console.timeEnd("screenshot time");
+  console.timeEnd("time");
   return;
 }
 async function closeBrowser() {
@@ -47,7 +47,7 @@ async function closeBrowser() {
     resolve();
   });
 }
-async function exportResult() {
+async function exportTextResult() {
   const formatedData = await textIo.formatResultData(doneData);
   const filename = await textIo.exportResultData(formatedData);
   console.log("-----RESULT EXPORTED!(" + filename + ")-----");
