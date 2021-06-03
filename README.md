@@ -2,7 +2,7 @@
 
 ## これは何？
 
-excelにてURLのリストを用意しscreenshot.jsに食わせると、以下のことをやってくれるツール
+URLのリストを用意しscreenshot.jsに食わせると、以下のことをやってくれるツール
 
 - 指定環境ごと(デフォルトではPC・SP)の全画面スクリーンショットを取る
 - HTMLコードをテキストファイルに保存
@@ -46,15 +46,16 @@ excel形式で下記の様にA列にURLが列挙されたファイルを用意�
 
 |URL|
 |:-----------|
-|https://github.com/| 
-|https://github.com/features| 
-|https://github.com/mobile| 
-|https://github.com/features/actions| 
+|https://example.com/|
+|https://example.com/page1|
+|https://example.com/page3|
+|https://example.com/page4|
+
 
 
 ※サンプルとして用意されているurllist.xlsxではB列以降に記述がされていますが、空でも構いません
 
-※[UrlSalvager](https://github.com/youji/UrlSalvager)のresultファイルをそのまま使用可能です
+※[UrlSalvager](https://github.com/youji/UrlSalvager)のresultファイルをそのまま転用可能です
 
 ## resultファイルについて
 
@@ -62,4 +63,4 @@ resultディレクトリ内に*20210301103326238*の様な実行日時ごとに�
 
 ## conf.yaml 設定内容
 
-※書き途中...たぶん見ればわかる
+※書き途中...ファイルを見てくれればたぶんわかる
