@@ -1,4 +1,4 @@
-# URLsalvager
+# ScreenShotUrls
 
 ## これは何？
 
