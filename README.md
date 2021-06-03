@@ -31,12 +31,12 @@ conf.yaml を設定したうえで下記の様に実行
 node screenshoter.js
 ```
 
-input ディレクトリ内の urllist.xlsx を走査し、screenshot を取得
+input ディレクトリ内の urllist.xlsx を走査し、処理実行
 
-任意の xlsx ファイルを input としたい場合は下記の様にする
+※任意の xlsx ファイルを input としたい場合は下記の様にする
 
 ```
-node screenshoter.js 20210401160801282.xlsx
+node screenshoter.js uniquename.xlsx
 ```
 
 ## inputファイルについて
@@ -50,8 +50,6 @@ excel形式で下記の様にA列にURLが列挙されたファイルを用意�
 |https://example.com/page1|
 |https://example.com/page3|
 |https://example.com/page4|
-
-
 
 ※サンプルとして用意されているurllist.xlsxではB列以降に記述がされていますが、空でも構いません
 
